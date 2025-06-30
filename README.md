@@ -58,3 +58,34 @@ A classic **Pong Game** built with ❤️ using modern web technologies. This is
 git clone https://github.com/yourusername/pong-game.git
 cd pong-game
 open index.html
+
+📂 Project Structure
+   pong-game/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+🙌 Acknowledgements
+	•	Inspired by the original Pong arcade game
+	•	MDN Web Docs
+	•	freeCodeCamp Pong Tutorial
+
+⸻
+
+📫 Contact
+
+Made with ❤️ by [Your Name]
+📧 [your.email@example.com]
+🌐 [yourportfolio.com]
+🔗 LinkedIn • GitHub
+
+⸻
+
+⭐ Show Your Support
+
+If you liked this project, consider giving it a ⭐ and sharing it with friends!
+
+---
+
+Let me know if you want it tailored for **Python**, **Pygame**, **Java**, or other technologies – or if you want me to generate the images or GIFs for your project.
